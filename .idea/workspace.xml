@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b81c1d73-7bd2-4d34-bac0-b2b77bb02049" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/vectors_enron_50_H.txt-round-0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/vectors_enron_50_H.txt-round-1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/vectors_enron_50_H.txt-round-2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/vectors_enron_50_H.txt-round-3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/vectors_enron_50_H.txt-round-4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/vectors_enron_50_H.txt-round-5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/vectors_enron_50_H.txt-round-6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/vectors_enron_50_H.txt-round-7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/vectors_enron_50_H.txt-round-8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/vectors_enron_50_H.txt-round-9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/w2v_embedding.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/seed_polarity_dict.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/tsne_w2v.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/CNN_model.h5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/CNN_model.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/backup/data.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/backup/data_full.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/backup/polarity_pipeline.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/backup/subjectivity_pipeline.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/backup/test_data.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/data.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/data_full.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/enron_w2v_gensim.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/enron_w2v_gensim1.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/polarity_classification_pipeline.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/polarity_classification_pipeline_Features.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/polarity_pipeline.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/subjectivity_pipeline.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/test_data.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/text.model.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/word2vec_models/50features_1minwords_10context" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/Datasets/semEval_test.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/Datasets/semEval_train.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/Lexicons/Enron_Lex_Pol.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/Lexicons/Enron_Lex_Scr.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/Lexicons/HL_LEx.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/Lexicons/Vader_Lex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/Lexicons/Wiki_Lex_Pol.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/Lexicons/Wiki_Lex_Scr.pck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/word2vec_models/50features_1minwords_10context" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/.idea/DataScience.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/.idea/dictionaries/gautamborgohain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embedding_from_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/vectors_enron_100_H9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embeddings/vectors_enron_50_H4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicon_evaluation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/backup/neg_enron_w2v.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/backup/pos_enron_w2v.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/enron_common.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/neg_enron_w2v.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/neg_seeds.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/neu_seeds.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/pos_enron_w2v.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/pos_seeds.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/vocab.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Seed_expansion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Softmax_Lexicon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Softmax_Lexicon_Keras.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Enron_Auto_Labelling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Models/CNN_model.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Prepare_Data_for_Tang.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/labelled_data_prep.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/polarilty_classification.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/polarity_classification_CNN.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/polarity_classification_NN.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/subj_polarity_classification.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/subj_polarity_models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/GPU_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/Text_CNN_Utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/Text_Clf_Grid_Search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/Text_Features_Pipeline.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/try.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/variables.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NLP/Utilities/w2v_trainer.py" />
+    </list>
+    <ignored path="DataScience.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="DataScience" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="polarity_classification_NN.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/polarity_classification_NN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1710">
+              <caret line="114" column="8" selection-start-line="114" selection-start-column="8" selection-end-line="114" selection-end-column="87" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subj_polarity_classification.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/subj_polarity_classification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="try.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NLP/Utilities/try.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enron_Auto_Labelling.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Enron_Auto_Labelling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Seed_expansion.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Seed_expansion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Softmax_Lexicon_Keras.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Softmax_Lexicon_Keras.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1965">
+              <caret line="131" column="33" selection-start-line="131" selection-start-column="30" selection-end-line="131" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lexicon_evaluation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicon_evaluation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GPU_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/GPU_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subj_polarity_models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/subj_polarity_models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-855">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Embedding_from_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embedding_from_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="PythonDS" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../NLP" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/Enron_Label Expansion_Data1_2_2step.ipynb" />
+        <option value="$PROJECT_DIR$/Utilities/Punctuations_Pipeline.py" />
+        <option value="$PROJECT_DIR$/Utilities/Emoticons_pipeline.py" />
+        <option value="$PROJECT_DIR$/Utilities/Lengths_pipeline.py" />
+        <option value="$PROJECT_DIR$/Utilities/Elongation_pipeline.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/Experiments.ipynb" />
+        <option value="$PROJECT_DIR$/Utilities/pipeline_utilities.py" />
+        <option value="$PROJECT_DIR$/Utilities/otherFeats_pipeline.py" />
+        <option value="$PROJECT_DIR$/Utilities/negations_pipeline.py" />
+        <option value="$PROJECT_DIR$/Utilities/HL_lexiconSent.py" />
+        <option value="$PROJECT_DIR$/Utilities/Wiki_Lex_Feats_pipeline.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/labelled_data_prep.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/Enron_Classifcation.py" />
+        <option value="$PROJECT_DIR$/Utilities/Text_Clf_Grid_Search.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Lexicon/Lexicon_from_Embedding.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/Enron_Auto_Labelling.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Lexicon/Softmax_Lexicon.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Lexicon/GPU_test.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Lexicon/Lexicons/neu_seeds.txt" />
+        <option value="$PROJECT_DIR$/Private/Enron_Lexicon/Lexicons/pos_seeds.txt" />
+        <option value="$PROJECT_DIR$/Utilities/Text_Features_Pipeline.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Lexicon/Seed_expansion.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Lexicon/Softmax_Lexicon_Keras.py" />
+        <option value="$PROJECT_DIR$/Utilities/variables.json" />
+        <option value="$PROJECT_DIR$/Private/Enron_Lexicon/Lexicon_evaluation.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/polarilty_classification.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/polarity_classification_NN.py" />
+        <option value="$PROJECT_DIR$/Utilities/try.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/Prepare_Data_for_Tang.py" />
+        <option value="$PROJECT_DIR$/Utilities/w2v_trainer.py" />
+        <option value="$PROJECT_DIR$/Utilities/Text_CNN_Utils.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/polarity_classification_CNN.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/subj_polarity_models.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/subj_polarity_classification.py" />
+        <option value="$PROJECT_DIR$/Private/Enron_Lexicon/Embedding_from_data.py" />
+        <option value="$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicon_evaluation.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyArgumentListInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="NLP">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="NLP">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Automatic_Lexicon_Creation">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="NLP">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Automatic_Lexicon_Creation">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Enron_Semi_Supervised">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="NLP">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Automatic_Lexicon_Creation">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Enron_Lexicon">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="emb&#9;FILE&#9;file:///Volumes/Data/DataScience/Private/Enron_Lexicon/Embedding_from_data.py&#10;try&#9;FILE&#9;file:///Volumes/Data/DataScience/Utilities/try.py&#10;w2v&#9;FILE&#9;file:///Volumes/Data/DataScience/Private/Enron_Lexicon/Lexicons/pos_enron_w2v.txt&#10;ker&#9;FILE&#9;file:///Volumes/Data/DataScience/Private/Enron_Lexicon/Softmax_Lexicon_Keras.py&#10;pos&#9;FILE&#9;file:///Volumes/Data/DataScience/Private/Enron_Lexicon/Lexicons/pos_seeds.txt&#10;neu&#9;FILE&#9;file:///Volumes/Data/DataScience/Private/Enron_Lexicon/Lexicons/neu_seeds.txt&#10;vari&#9;FILE&#9;file:///Volumes/Data/DataScience/Utilities/variables.json&#10;var&#9;FILE&#9;file:///Volumes/Data/DataScience/Utilities/variables.json&#10;hl&#9;null&#9;null&#10;va&#9;FILE&#9;file:///Volumes/Data/DataScience/Utilities/variables.json&#10;varia&#9;FILE&#9;file:///Volumes/Data/DataScience/Utilities/variables.json" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;import pandas as pd&#10;import numpy as np&#10;import json&#10;import re&#10;import pickle&#10;&#10;variables = json.loads(open('/Volumes/Data/DataScience/Utilities/variables.json').read())&#10;&#10;" module-name="DataScience" is-module-sdk="true">
+        <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;import pandas as pd&#10;import numpy as np&#10;import json&#10;import re&#10;import pickle&#10;&#10;variables = json.loads(open('/Volumes/Data/DataScience/Utilities/variables.json').read())&#10;&#10;" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="DataScience" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Private" />
+      <recent name="$PROJECT_DIR$/Private/Enron_Lexicon/Embeddings" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Lexicon_evaluation">
+    <configuration default="false" name="polarilty_classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Private/Enron_Semi_Supervised" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/polarilty_classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Prepare_Data_for_Tang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Private/Enron_Semi_Supervised" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/Prepare_Data_for_Tang.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="polarity_classification_CNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Private/Enron_Semi_Supervised" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/polarity_classification_CNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="subj_polarity_classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Private/Enron_Semi_Supervised" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Private/Enron_Semi_Supervised/subj_polarity_classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Lexicon_evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Private/Enron_Lexicon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Private/Enron_Lexicon/Lexicon_evaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.polarilty_classification" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Prepare_Data_for_Tang" />
+      <item index="2" class="java.lang.String" itemvalue="Python.polarity_classification_CNN" />
+      <item index="3" class="java.lang.String" itemvalue="Python.subj_polarity_classification" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Lexicon_evaluation" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Lexicon_evaluation" />
+        <item index="1" class="java.lang.String" itemvalue="Python.subj_polarity_classification" />
+        <item index="2" class="java.lang.String" itemvalue="Python.polarilty_classification" />
+        <item index="3" class="java.lang.String" itemvalue="Python.polarity_classification_CNN" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Prepare_Data_for_Tang" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b81c1d73-7bd2-4d34-bac0-b2b77bb02049" name="Default" comment="" />
+      <created>1466405274489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1466405274489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="840" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12517883" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22048998" sideWeight="0.506105" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2911302" sideWeight="0.497558" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24908425" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="92" y="239" width="1480" height="774" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988889" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24111111" sideWeight="0.493895" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/subj_polarity_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utilities/otherFeats_pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/Wiki_Lex_Feats_pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/Emoticons_pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/Elongation_pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/Lengths_pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/HL_lexiconSent.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/Punctuations_Pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Private/Enron_Semi_Supervised/Enron_Label_Expansion_Data1_2_2step.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Private/Enron_Semi_Supervised/Experiments.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Utilities/Elongation_pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/Emoticons_pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/HL_lexiconSent.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/Lengths_pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/Punctuations_Pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/otherFeats_pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/negations_pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Utilities/Wiki_Lex_Feats_pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Private/Enron_Semi_Supervised/Enron_Classifcation.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/sklearn/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Utilities/Text_Clf_Grid_Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="113" column="38" selection-start-line="113" selection-start-column="38" selection-end-line="113" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/numpy/core/_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="3065" column="0" selection-start-line="3065" selection-start-column="0" selection-end-line="3065" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Softmax_Lexicon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/keras/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="407" column="0" selection-start-line="407" selection-start-column="0" selection-end-line="407" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/neu_seeds.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="584" column="7" selection-start-line="584" selection-start-column="7" selection-end-line="584" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/pos_seeds.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Utilities/variables.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/sklearn/utils/metaestimators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/tsne_w2v.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Utilities/Text_Features_Pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2818">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Utilities/w2v_trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Utilities/Text_CNN_Utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="125" column="32" selection-start-line="125" selection-start-column="32" selection-end-line="125" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/polarity_classification_CNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="133" column="21" selection-start-line="133" selection-start-column="21" selection-end-line="133" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/polarilty_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-515">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="2343" column="0" selection-start-line="2343" selection-start-column="0" selection-end-line="2343" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/labelled_data_prep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Prepare_Data_for_Tang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/polarity_classification_NN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="114" column="8" selection-start-line="114" selection-start-column="8" selection-end-line="114" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/subj_polarity_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/Enron_Auto_Labelling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Utilities/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Softmax_Lexicon_Keras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="131" column="33" selection-start-line="131" selection-start-column="30" selection-end-line="131" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/neg_enron_w2v.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicons/pos_enron_w2v.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Seed_expansion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Embedding_from_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="747" column="37" selection-start-line="747" selection-start-column="37" selection-end-line="747" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Lexicon/Lexicon_evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/GPU_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NLP/Automatic_Lexicon_Creation/Enron_Semi_Supervised/subj_polarity_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-855">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

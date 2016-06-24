@@ -1,0 +1,16 @@
+{
+
+  "path" : "/Volumes/Data/DataScience/Private/Enron_Semi_Supervised/Models",
+  "HL_path" : "/Volumes/Data/DataScience/Utilities/Lexicons/HL_LEx.pck",
+  "Clf_grid_output" : "/Users/gautamborgohain/Desktop/subj_clf_result.xlsx",
+  "enron_main_path" : "/Users/gautamborgohain/Desktop/Models/enron_data.pickle",
+  "w2v_embedding_path":"/Volumes/Data/DataScience/Private/Enron_Lexicon/Embeddings/w2v_embedding.pck",
+  "udDict_path" : "/Users/gautamborgohain/Desktop/RA/ud_dict.pck",
+  "pos_enron_path" : "/Volumes/Data/DataScience/Private/Enron_Lexicon/Lexicons/pos_enron_w2v.txt",
+  "neg_enron_path" : "/Volumes/Data/DataScience/Private/Enron_Lexicon/Lexicons/neg_enron_w2v.txt",
+  "pcf_pred_path" : "/Users/gautamborgohain/Desktop/pcf_enron.csv",
+  "subj_pol_pred_path" : "/Users/gautamborgohain/Desktop/subj_pol_enron.csv",
+  "vader_lex_path" : "/Volumes/Data/DataScience/Utilities/Lexicons/Vader_Lex",
+  "semEval_train_path" : "/Volumes/Data/DataScience/Utilities/Datasets/semEval_train.pck",
+  "semEval_test_path" : "/Volumes/Data/DataScience/Utilities/Datasets/semEval_test.pck"
+}
